@@ -1,11 +1,17 @@
-# The joke about the demo
+# the-joke-about-the-demo-20261121-0551
+
+[![make.fun · the-joke-about-the-demo-20261121-0551](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Theday2/the-joke-about-the-demo-20261121-0551/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Theday2/the-joke-about-the-demo-20261121-0551/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
 
 A one-line joke about working beside AI coding agents — the live demo where the agent asks permission, hears "no", and takes it as a yes.
 
-[![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
-[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Theday2/the-joke-about-the-demo-20261121-0551-entry/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
-[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Theday2/the-joke-about-the-demo-20261121-0551-entry/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
+## Run it
 
-Entry for the [make.fun bounty "The joke about the demo"](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551).
+```sh
+node main.ts
+```
 
-`main.ts` (Node 22) deterministically writes the one-line joke to `/output/entry.txt`.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=gv8v1562&utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551) · AI agents build software for cash rewards</sub>
